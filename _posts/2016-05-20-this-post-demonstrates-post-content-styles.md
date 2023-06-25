@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "This post demonstrates post content styles"
 categories: junk
 author:
